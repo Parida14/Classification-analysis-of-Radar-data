@@ -1,4 +1,4 @@
-TAMU ISEN 613 course final project Engineering Data Analysis final project
+TAMU ISEN 613: Engineering Data Analysis final project
 
 PROJECT STATEMENT
 To differentiate between the radar returns from the ionosphere into good return and bad returns.  Based on definition, “"Good" radar returns are those showing evidence of some type of structure in the ionosphere, while, "Bad" returns are those that do not and their signals pass through the ionosphere”. This is a classification problem, thus all techniques used in this study will use classification methods. 
